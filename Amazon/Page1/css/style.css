@@ -1,18 +1,11 @@
 
-
-
-.parent {
-  position: relative;
-  top: 0;
-  left: 0;
-}
 .image1 {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
 }
 .image2 {
   position: absolute;
   top: 290px;
-  right: 70px;
+  left: 1323px;
 }
